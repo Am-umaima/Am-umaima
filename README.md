@@ -9,3 +9,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new programming concepts and learning from experienced developers!
 
+
+### My Portfolio
+
+I'm currently working on building my portfolio website to showcase my projects and skills. While it's still a work in progress, you can check out the (shorturl.at/dkoQS) to see what I've been working on.
+
