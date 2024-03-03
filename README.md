@@ -10,7 +10,3 @@
 - ⚡ Fun fact: I love exploring new programming concepts and learning from experienced developers!
 
 
-### My Portfolio
-
-I'm currently working on building my portfolio website to showcase my projects and skills. While it's still a work in progress, you can check out the ([https://htmlpreview.github.io/?https://github.com/Am-umaima/Devima/blob/main/index.html)https://htmlpreview.github.io/?https://github.com/Am-umaima/Devima/blob/main/index.html](https://htmlpreview.github.io/?https://github.com/Am-umaima/Devima/blob/main/index.html)https://htmlpreview.github.io/?https://github.com/Am-umaima/Devima/blob/main/index.html) to see what I've been working on.
-
