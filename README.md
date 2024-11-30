@@ -24,7 +24,7 @@
 ---
 ### 🌱 Contribution Graph:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Am-umaima&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Am-umaima&theme=radical)
 
 ---
 
