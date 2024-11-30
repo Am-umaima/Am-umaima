@@ -15,4 +15,15 @@
 ![Am-umaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Am-umaima&show_icons=true&theme=radical)
 
 ---
+---
+
+### 📊 Most Used Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am-umaima&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies:
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Am-umaima&theme=onedark)
 
