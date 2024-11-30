@@ -22,9 +22,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am-umaima&layout=compact&theme=radical)
 
 ---
-### 🔥 Streak Stats:
+### 👀 Visitors:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Am-umaima&theme=tokyonight)
+![Visitor Count](https://komarev.com/ghpvc/?username=Am-umaima&color=brightgreen)
 
 ---
 
