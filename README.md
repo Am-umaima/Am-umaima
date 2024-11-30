@@ -22,9 +22,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am-umaima&layout=compact&theme=radical)
 
 ---
-### 👀 Visitors:
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Am-umaima&color=brightgreen)
+### 🚀 Featured Projects:
+- [Project Name](https://github.com/Am-umaima/project-name) – Brief description of the project.
 
 ---
 
