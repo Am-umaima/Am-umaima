@@ -27,3 +27,11 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Am-umaima&theme=onedark)
 
+### 💻 Tech Stack:
+
+----
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
