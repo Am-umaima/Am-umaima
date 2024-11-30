@@ -12,7 +12,7 @@
 
 ### 📊 GitHub Stats:
 
-![Am-umaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Am-umaima&show_icons=true&theme=default)
+![Am-umaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Am-umaima&show_icons=true&theme=radical)
 
 ---
 ---
