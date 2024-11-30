@@ -22,9 +22,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am-umaima&layout=compact&theme=radical)
 
 ---
-### 🌱 Contribution Graph:
+### 🔥 Streak Stats:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Am-umaima&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Am-umaima&theme=tokyonight)
 
 ---
 
