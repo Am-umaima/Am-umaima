@@ -13,7 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am-umaima&layout=compact&theme=radical)
 
----
+
 
 ### 💻 Tech Stack:
 
@@ -30,7 +30,6 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
 
 ### 📫 How to Reach Me:
 
